@@ -1,0 +1,15 @@
+C:\Users\PBae\Documents\Visual Studio 2008\Projects\BrandCenterSearchResults\BrandCenterSearchResults\bin\BrandCenterSearchResults.dll
+C:\Users\PBae\Documents\Visual Studio 2008\Projects\BrandCenterSearchResults\BrandCenterSearchResults\bin\BrandCenterSearchResults.pdb
+C:\Users\PBae\Documents\Visual Studio 2008\Projects\BrandCenterSearchResults\BrandCenterSearchResults\obj\Debug\BrandCenterSearchResults.dll
+C:\Users\PBae\Documents\Visual Studio 2008\Projects\BrandCenterSearchResults\BrandCenterSearchResults\obj\Debug\BrandCenterSearchResults.pdb
+C:\Users\PBae\Documents\Visual Studio 2010\Projects\BrandCenterSearchResults\BrandCenterSearchResults\bin\BrandCenterSearchResults.dll
+C:\Users\PBae\Documents\Visual Studio 2010\Projects\BrandCenterSearchResults\BrandCenterSearchResults\bin\BrandCenterSearchResults.pdb
+C:\Users\PBae\Documents\Visual Studio 2010\Projects\BrandCenterSearchResults\BrandCenterSearchResults\bin\cms.dll
+C:\Users\PBae\Documents\Visual Studio 2010\Projects\BrandCenterSearchResults\BrandCenterSearchResults\bin\Examine.dll
+C:\Users\PBae\Documents\Visual Studio 2010\Projects\BrandCenterSearchResults\BrandCenterSearchResults\bin\Lucene.Net.Contrib.Highlighter.dll
+C:\Users\PBae\Documents\Visual Studio 2010\Projects\BrandCenterSearchResults\BrandCenterSearchResults\bin\Lucene.Net.dll
+C:\Users\PBae\Documents\Visual Studio 2010\Projects\BrandCenterSearchResults\BrandCenterSearchResults\bin\umbraco.dll
+C:\Users\PBae\Documents\Visual Studio 2010\Projects\BrandCenterSearchResults\BrandCenterSearchResults\obj\Debug\BrandCenterSearchResults.dll
+C:\Users\PBae\Documents\Visual Studio 2010\Projects\BrandCenterSearchResults\BrandCenterSearchResults\obj\Debug\BrandCenterSearchResults.pdb
+C:\Users\PBae\Documents\Visual Studio 2010\Projects\BrandCenterSearchResults\BrandCenterSearchResults\bin\Lucene.Net.Contrib.Snowball.dll
+C:\Users\PBae\Documents\Visual Studio 2010\Projects\BrandCenterSearchResults\BrandCenterSearchResults\obj\Debug\BrandCenterSearchResults.csprojResolveAssemblyReference.cache

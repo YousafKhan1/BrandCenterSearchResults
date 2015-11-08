@@ -1,0 +1,8 @@
+c:\users\pbae\documents\visual studio 2010\Projects\LuceneNetContrib\LuceneNetContrib\obj\Debug\LuceneNetContrib.csprojResolveAssemblyReference.cache
+c:\users\pbae\documents\visual studio 2010\Projects\LuceneNetContrib\LuceneNetContrib\bin\Debug\LuceneNetContrib.dll
+c:\users\pbae\documents\visual studio 2010\Projects\LuceneNetContrib\LuceneNetContrib\bin\Debug\LuceneNetContrib.pdb
+c:\users\pbae\documents\visual studio 2010\Projects\LuceneNetContrib\LuceneNetContrib\bin\Debug\Lucene.Net.Contrib.Core.dll
+c:\users\pbae\documents\visual studio 2010\Projects\LuceneNetContrib\LuceneNetContrib\bin\Debug\Lucene.Net.Contrib.Snowball.dll
+c:\users\pbae\documents\visual studio 2010\Projects\LuceneNetContrib\LuceneNetContrib\bin\Debug\Lucene.Net.dll
+c:\users\pbae\documents\visual studio 2010\Projects\LuceneNetContrib\LuceneNetContrib\obj\Debug\LuceneNetContrib.dll
+c:\users\pbae\documents\visual studio 2010\Projects\LuceneNetContrib\LuceneNetContrib\obj\Debug\LuceneNetContrib.pdb
